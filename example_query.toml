@@ -1,0 +1,8 @@
+# queries.toml
+[[query]]
+name = "properties"
+sql = "SELECT baseyear from properties;"
+
+[[query]]
+name = "people"
+sql = "SELECT id, name, start_year from people;"
