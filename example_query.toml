@@ -1,4 +1,5 @@
 # queries.toml
+
 [[query]]
 name = "properties"
 sql = "SELECT baseyear from properties;"
